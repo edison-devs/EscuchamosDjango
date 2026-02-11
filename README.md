@@ -46,6 +46,6 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 
 Para probar la API **sin interfaz gráfica**, se recomienda utilizar la colección de Postman disponible en el siguiente repositorio (ya documentado):
 
-[**Colección de Postman en GitHub**](https://github.com/edison-devs/escuchamos_flutter)
+[**Colección de Postman en GitHub**]([https://github.com/edison-devs/escuchamos_flutter](https://github.com/edison-devs/EscuhamosCollection))
 
 Utiliza esta colección para interactuar directamente con los endpoints de la API y verificar su funcionamiento.
